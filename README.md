@@ -83,5 +83,3 @@ rias.train()
 rias.init_calibrator()
 rias.test(X_test, y_test, DiabetesEvalMetric())
 ```
-
-## See the example.ipynb for detail example
